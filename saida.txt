@@ -1,0 +1,400 @@
+positivas\1(1)t.jpg 3 62 84 151 329 187 54 26 359 187 54 131 229
+positivas\1(10).jpg 1 151 193 34 42
+positivas\1(100).jpg 1 53 28 219 367
+positivas\1(101).jpg 1 57 45 204 174
+positivas\1(102).jpg 1 41 91 216 261
+positivas\1(103).jpg 1 76 178 54 50
+positivas\1(104).jpg 1 76 106 168 157
+positivas\1(105).jpg 1 30 129 151 294
+positivas\1(106).jpg 1 7 121 306 269
+positivas\1(107).jpg 1 63 84 126 179
+positivas\1(108).jpg 1 62 112 233 278
+positivas\1(109).jpg 1 35 47 232 295
+positivas\1(11).jpg 1 21 120 294 238
+positivas\1(110).jpg 1 40 61 216 268
+positivas\1(111).jpg 1 46 67 228 266
+positivas\1(112).jpg 1 36 30 281 332
+positivas\1(113).jpg 1 46 109 212 259
+positivas\1(114).jpg 1 20 37 277 376
+positivas\1(115).jpg 1 2 71 70 108
+positivas\1(116).jpg 1 71 169 222 222
+positivas\1(117).jpg 2 28 156 99 166 190 156 104 159
+positivas\1(118).jpg 1 25 36 264 356
+positivas\1(119).jpg 1 215 93 44 44
+positivas\1(12).jpg 1 48 133 143 175
+positivas\1(120).jpg 1 45 33 242 371
+positivas\1(121).jpg 1 39 37 249 377
+positivas\1(122).jpg 1 31 125 231 231
+positivas\1(123).jpg 1 41 50 225 322
+positivas\1(124).jpg 1 67 161 126 145
+positivas\1(125).jpg 1 18 6 291 392
+positivas\1(126).jpg 1 68 148 162 143
+positivas\1(127).jpg 1 22 9 190 250
+positivas\1(128).jpg 1 21 163 80 132
+positivas\1(129).jpg 2 93 183 56 119 205 86 109 207
+positivas\1(13).jpg 1 58 131 105 124
+positivas\1(130).jpg 1 62 152 99 91
+positivas\1(131).jpg 1 78 194 68 91
+positivas\1(132).jpg 1 90 157 191 257
+positivas\1(133).jpg 1 135 218 174 187
+positivas\1(134).jpg 1 37 144 261 292
+positivas\1(135).jpg 1 14 33 301 364
+positivas\1(136).jpg 1 163 99 95 143
+positivas\1(137).jpg 1 32 89 106 160
+positivas\1(138).jpg 1 36 95 274 297
+positivas\1(139).jpg 1 17 165 97 91
+positivas\1(14).jpg 1 3 96 315 333
+positivas\1(140).jpg 1 41 25 246 244
+positivas\1(141).jpg 1 169 240 131 198
+positivas\1(142).jpg 1 63 54 209 320
+positivas\1(143).jpg 1 4 13 308 430
+positivas\1(144).jpg 1 229 221 38 47
+positivas\1(145).jpg 1 23 87 263 280
+positivas\1(146).jpg 1 27 173 109 109
+positivas\1(147).jpg 1 20 62 259 278
+positivas\1(148).jpg 1 16 70 147 316
+positivas\1(149).jpg 1 42 122 66 84
+positivas\1(15).jpg 1 150 96 68 91
+positivas\1(150).jpg 1 22 62 295 230
+positivas\1(151).jpg 1 164 227 79 103
+positivas\1(152).jpg 1 59 91 117 124
+positivas\1(153).jpg 1 159 133 87 91
+positivas\1(154).jpg 1 126 192 109 115
+positivas\1(155).jpg 1 33 100 266 331
+positivas\1(156).jpg 1 35 24 266 300
+positivas\1(157).jpg 2 57 219 75 109 172 170 94 88
+positivas\1(158).jpg 1 161 126 98 114
+positivas\1(159).jpg 1 48 68 168 215
+positivas\1(16).jpg 1 16 23 285 394
+positivas\1(160).jpg 1 4 45 313 336
+positivas\1(161).jpg 1 52 48 199 267
+positivas\1(162).jpg 1 17 44 270 333
+positivas\1(163).jpg 1 155 155 120 146
+positivas\1(164).jpg 1 73 17 241 418
+positivas\1(165).jpg 1 22 104 163 164
+positivas\1(166).jpg 1 83 62 202 312
+positivas\1(167).jpg 1 57 104 83 111
+positivas\1(168).jpg 1 71 79 202 324
+positivas\1(169).jpg 1 60 213 195 74
+positivas\1(17).jpg 0
+positivas\1(170).jpg 1 96 7 169 393
+positivas\1(171).jpg 1 33 49 245 363
+positivas\1(172).jpg 1 105 140 101 185
+positivas\1(173).jpg 1 47 98 223 325
+positivas\1(174).jpg 1 50 168 81 132
+positivas\1(175).jpg 2 74 231 181 197 69 13 193 196
+positivas\1(176).jpg 1 39 87 222 303
+positivas\1(177).jpg 1 252 174 45 49
+positivas\1(178).jpg 1 76 99 175 197
+positivas\1(179).jpg 1 82 168 189 183
+positivas\1(18).jpg 0
+positivas\1(180).jpg 1 27 125 274 297
+positivas\1(181).jpg 1 21 127 270 284
+positivas\1(182).jpg 1 8 148 176 156
+positivas\1(183).jpg 1 48 91 217 248
+positivas\1(184).jpg 3 82 141 204 300 67 72 157 218 33 37 146 185
+positivas\1(185).jpg 2 80 150 164 271 147 7 140 250
+positivas\1(186).jpg 1 199 113 76 186
+positivas\1(187).jpg 1 83 33 198 217
+positivas\1(188).jpg 1 15 45 174 344
+positivas\1(189).jpg 0
+positivas\1(19).jpg 1 49 119 174 223
+positivas\1(190).jpg 1 146 212 83 122
+positivas\1(191).jpg 1 103 119 131 199
+positivas\1(192).jpg 1 177 127 94 171
+positivas\1(193).jpg 1 84 98 134 198
+positivas\1(194).jpg 1 33 15 266 395
+positivas\1(195).jpg 1 73 118 149 180
+positivas\1(196).jpg 1 38 57 248 317
+positivas\1(197).jpg 1 5 96 261 227
+positivas\1(198).jpg 1 102 116 90 84
+positivas\1(199).jpg 1 106 114 78 91
+positivas\1(2)t.jpg 1 213 82 74 96
+positivas\1(20).jpg 1 40 75 264 306
+positivas\1(200).jpg 1 14 96 121 336
+positivas\1(21).jpg 1 17 139 277 225
+positivas\1(22).jpg 2 3 114 84 73 86 67 74 71
+positivas\1(23).jpg 1 150 117 82 93
+positivas\1(24).jpg 1 203 49 107 100
+positivas\1(25).jpg 3 126 256 40 60 4 201 51 180 237 233 33 216
+positivas\1(26).jpg 1 148 48 165 340
+positivas\1(27).jpg 1 107 128 135 309
+positivas\1(28).jpg 1 109 109 125 126
+positivas\1(29).jpg 1 85 87 226 171
+positivas\1(3)t.jpg 1 50 72 90 171
+positivas\1(30).jpg 1 16 195 81 89
+positivas\1(31).jpg 1 74 43 113 305
+positivas\1(32).jpg 1 74 123 36 74
+positivas\1(33).jpg 1 109 140 130 101
+positivas\1(34).jpg 1 132 180 103 123
+positivas\1(35).jpg 1 87 190 109 178
+positivas\1(36).jpg 1 47 129 234 285
+positivas\1(37).jpg 1 42 9 196 337
+positivas\1(38).jpg 1 15 117 283 281
+positivas\1(39).jpg 1 16 120 275 288
+positivas\1(4)t.jpg 1 128 134 150 152
+positivas\1(40).jpg 1 18 36 280 326
+positivas\1(41).jpg 1 19 77 286 267
+positivas\1(42).jpg 1 84 121 210 123
+positivas\1(43).jpg 1 184 158 84 120
+positivas\1(44).jpg 1 209 126 36 55
+positivas\1(45).jpg 1 10 129 292 257
+positivas\1(46).jpg 1 25 137 280 188
+positivas\1(47).jpg 1 13 109 295 240
+positivas\1(48).jpg 1 4 89 309 276
+positivas\1(49).jpg 1 5 99 304 256
+positivas\1(5)t.jpg 1 44 150 170 173
+positivas\1(50).jpg 1 35 62 214 292
+positivas\1(51).jpg 2 133 299 35 60 221 23 32 41
+positivas\1(52).jpg 1 10 29 294 405
+positivas\1(53).jpg 1 118 75 197 351
+positivas\1(54).jpg 1 9 26 308 314
+positivas\1(55).jpg 1 6 45 296 279
+positivas\1(56).jpg 1 19 99 280 290
+positivas\1(57).jpg 0
+positivas\1(58).jpg 1 20 20 285 341
+positivas\1(59).jpg 1 21 122 95 64
+positivas\1(6)t.jpg 1 99 134 142 166
+positivas\1(60).jpg 1 30 26 195 384
+positivas\1(61).jpg 1 29 46 269 335
+positivas\1(62).jpg 1 57 110 246 235
+positivas\1(63).jpg 1 70 53 121 186
+positivas\1(64).jpg 1 51 76 233 284
+positivas\1(65).jpg 1 38 71 264 360
+positivas\1(66).jpg 1 6 11 288 419
+positivas\1(67).jpg 1 80 67 219 273
+positivas\1(68).jpg 1 9 28 308 414
+positivas\1(69).jpg 1 143 164 111 143
+positivas\1(7)t.jpg 1 114 181 134 192
+positivas\1(70).jpg 1 83 38 235 382
+positivas\1(71).jpg 1 11 20 248 359
+positivas\1(72).jpg 0
+positivas\1(73).jpg 1 2 67 312 309
+positivas\1(74).jpg 1 104 83 212 340
+positivas\1(75).jpg 1 24 66 267 325
+positivas\1(76).jpg 1 30 221 271 172
+positivas\1(77).jpg 1 7 51 296 322
+positivas\1(78).jpg 1 16 28 198 284
+positivas\1(79).jpg 1 28 105 259 237
+positivas\1(8)t.jpg 1 140 264 144 121
+positivas\1(80).jpg 1 33 35 280 366
+positivas\1(81).jpg 1 26 125 271 203
+positivas\1(82).jpg 1 130 141 79 162
+positivas\1(83).jpg 1 109 200 167 196
+positivas\1(84).jpg 1 22 17 267 363
+positivas\1(85).jpg 1 12 174 92 94
+positivas\1(86).jpg 1 103 38 100 270
+positivas\1(87).jpg 1 107 65 207 320
+positivas\1(88).jpg 1 8 45 297 331
+positivas\1(89).jpg 1 29 33 245 369
+positivas\1(9).jpg 1 55 95 243 281
+positivas\1(90).jpg 1 20 76 188 260
+positivas\1(91).jpg 1 172 106 99 128
+positivas\1(92).jpg 1 218 94 62 108
+positivas\1(93).jpg 1 33 86 257 264
+positivas\1(94).jpg 1 36 64 75 161
+positivas\1(95).jpg 1 17 15 240 291
+positivas\1(96).jpg 1 41 39 201 395
+positivas\1(97).jpg 1 2 16 314 337
+positivas\1(98).jpg 1 38 62 237 348
+positivas\1(99).jpg 1 215 111 50 43
+positivas\2(1)t.jpg 1 37 10 262 435
+positivas\2(10)t.jpg 1 7 44 73 115
+positivas\2(100).jpg 1 35 43 158 395
+positivas\2(101).jpg 1 114 81 195 275
+positivas\2(102).jpg 1 8 26 298 379
+positivas\2(103).jpg 1 20 113 287 244
+positivas\2(104).jpg 1 18 128 294 191
+positivas\2(105).jpg 1 2 125 314 214
+positivas\2(106).jpg 1 77 118 191 329
+positivas\2(107).jpg 1 5 98 311 271
+positivas\2(108).jpg 1 2 6 316 429
+positivas\2(109).jpg 1 16 71 299 343
+positivas\2(11).jpg 1 108 106 145 320
+positivas\2(110).jpg 1 1 147 316 128
+positivas\2(111).jpg 1 2 143 297 167
+positivas\2(112).jpg 1 5 156 309 131
+positivas\2(113).jpg 1 61 119 235 318
+positivas\2(114).jpg 1 37 11 258 434
+positivas\2(115).jpg 1 4 36 311 363
+positivas\2(116).jpg 1 1 93 318 226
+positivas\2(117).jpg 1 0 25 304 396
+positivas\2(118).jpg 1 24 153 282 167
+positivas\2(119).jpg 1 109 65 84 372
+positivas\2(12).jpg 1 6 249 308 60
+positivas\2(120).jpg 1 6 103 306 275
+positivas\2(121).jpg 1 132 4 84 433
+positivas\2(122).jpg 1 6 82 305 326
+positivas\2(123).jpg 1 43 161 260 259
+positivas\2(124).jpg 3 5 4 312 120 16 135 292 172 13 304 303 136
+positivas\2(125).jpg 2 6 264 310 164 2 8 313 206
+positivas\2(126).jpg 1 6 5 311 433
+positivas\2(127).jpg 1 1 96 317 350
+positivas\2(128).jpg 1 5 113 307 260
+positivas\2(129).jpg 1 9 18 303 226
+positivas\2(13).jpg 1 42 119 169 230
+positivas\2(130).jpg 2 4 0 312 223 3 228 316 210
+positivas\2(131).jpg 1 4 167 312 277
+positivas\2(132).jpg 1 15 150 291 163
+positivas\2(133).jpg 1 13 10 298 179
+positivas\2(134).jpg 1 70 38 243 407
+positivas\2(135).jpg 2 4 155 307 254 7 35 310 143
+positivas\2(136).jpg 1 10 13 304 342
+positivas\2(137).jpg 1 19 12 286 339
+positivas\2(138).jpg 1 2 168 308 181
+positivas\2(139).jpg 1 2 127 317 160
+positivas\2(14).jpg 1 82 105 65 244
+positivas\2(140).jpg 1 8 6 299 341
+positivas\2(141).jpg 1 22 4 271 420
+positivas\2(142).jpg 1 77 225 221 145
+positivas\2(143).jpg 1 32 283 266 144
+positivas\2(144).jpg 1 20 88 293 319
+positivas\2(145).jpg 1 51 11 244 425
+positivas\2(146).jpg 1 16 140 300 120
+positivas\2(147).jpg 1 7 60 307 333
+positivas\2(148).jpg 1 8 170 305 134
+positivas\2(149).jpg 1 15 123 273 239
+positivas\2(15).jpg 1 4 95 306 223
+positivas\2(150).jpg 1 4 97 310 299
+positivas\2(151).jpg 1 10 214 295 179
+positivas\2(152).jpg 1 1 36 309 335
+positivas\2(153).jpg 1 8 67 308 289
+positivas\2(154).jpg 1 4 36 304 409
+positivas\2(155).jpg 1 5 90 302 262
+positivas\2(156).jpg 1 49 109 175 146
+positivas\2(157).jpg 1 39 68 247 221
+positivas\2(158).jpg 1 13 137 300 216
+positivas\2(159).jpg 1 28 99 274 283
+positivas\2(16).jpg 1 82 167 194 99
+positivas\2(160).jpg 3 243 30 62 316 133 44 47 287 29 118 28 223
+positivas\2(161).jpg 1 14 2 298 429
+positivas\2(162).jpg 1 5 48 309 157
+positivas\2(163).jpg 1 148 43 127 385
+positivas\2(164).jpg 1 29 25 279 390
+positivas\2(165).jpg 1 2 294 307 132
+positivas\2(166).jpg 2 7 11 306 124 10 321 299 119
+positivas\2(167).jpg 3 30 30 272 116 35 219 120 125 194 227 98 103
+positivas\2(168).jpg 1 112 137 177 208
+positivas\2(169).jpg 1 65 268 183 100
+positivas\2(17).jpg 2 113 47 53 295 199 124 110 271
+positivas\2(170).jpg 2 7 36 312 219 3 258 313 167
+positivas\2(171).jpg 1 13 63 303 289
+positivas\2(172).jpg 1 14 78 287 281
+positivas\2(173).jpg 1 42 86 273 201
+positivas\2(174).jpg 1 130 175 70 89
+positivas\2(175).jpg 1 36 141 254 140
+positivas\2(176).jpg 1 14 80 288 291
+positivas\2(177).jpg 1 106 125 154 147
+positivas\2(178).jpg 1 28 110 223 239
+positivas\2(179).jpg 1 8 90 311 133
+positivas\2(18).jpg 1 88 21 106 345
+positivas\2(180).jpg 1 7 52 308 160
+positivas\2(181).jpg 1 102 123 213 191
+positivas\2(182).jpg 1 32 150 251 205
+positivas\2(183).jpg 2 83 26 213 178 7 216 279 164
+positivas\2(184).jpg 1 59 11 254 434
+positivas\2(185).jpg 1 4 12 308 340
+positivas\2(186).jpg 1 9 24 304 263
+positivas\2(187).jpg 1 8 30 284 325
+positivas\2(188).jpg 1 26 3 281 430
+positivas\2(189).jpg 1 22 51 293 329
+positivas\2(19).jpg 2 39 28 48 228 144 110 140 178
+positivas\2(190).jpg 1 3 50 290 356
+positivas\2(191).jpg 1 2 29 314 397
+positivas\2(192).jpg 1 6 147 311 204
+positivas\2(193).jpg 2 5 22 301 199 27 197 252 214
+positivas\2(194).jpg 1 7 30 290 360
+positivas\2(195).jpg 1 163 168 56 188
+positivas\2(196).jpg 3 49 45 244 58 32 146 274 79 3 296 315 90
+positivas\2(199).jpg 1 14 51 283 293
+positivas\2(2)t.jpg 1 0 16 295 121
+positivas\2(20).jpg 1 10 139 265 155
+positivas\2(200).jpg 1 0 82 312 332
+positivas\2(201).jpg 1 17 197 288 160
+positivas\2(202).jpg 3 9 44 120 349 130 44 90 345 221 45 95 367
+positivas\2(21).jpg 1 89 176 160 70
+positivas\2(22).jpg 1 153 85 116 71
+positivas\2(23).jpg 1 3 8 260 396
+positivas\2(24).jpg 1 53 138 243 220
+positivas\2(25).jpg 1 53 211 24 147
+positivas\2(26).jpg 1 53 181 256 123
+positivas\2(27).jpg 1 8 242 306 117
+positivas\2(28).jpg 1 77 206 182 212
+positivas\2(29).jpg 1 75 189 117 171
+positivas\2(3)t.jpg 1 39 0 221 418
+positivas\2(30).jpg 1 23 170 256 160
+positivas\2(31).jpg 1 10 82 307 356
+positivas\2(32).jpg 1 15 232 266 143
+positivas\2(33).jpg 1 63 258 239 82
+positivas\2(34).jpg 1 8 143 304 154
+positivas\2(35).jpg 1 85 8 142 429
+positivas\2(36).jpg 1 3 107 302 238
+positivas\2(37).jpg 2 9 80 305 124 16 242 282 137
+positivas\2(38).jpg 1 140 115 157 172
+positivas\2(39).jpg 1 82 138 234 249
+positivas\2(4)t.jpg 2 5 85 172 284 186 102 126 337
+positivas\2(40).jpg 1 108 188 107 122
+positivas\2(41).jpg 1 34 122 262 188
+positivas\2(42).jpg 1 23 111 164 185
+positivas\2(43).jpg 1 89 174 225 196
+positivas\2(44).jpg 1 77 173 238 193
+positivas\2(45).jpg 1 125 73 147 147
+positivas\2(46).jpg 0
+positivas\2(47).jpg 1 110 174 48 42
+positivas\2(48).jpg 1 29 154 179 145
+positivas\2(49).jpg 2 210 165 108 206 30 173 60 228
+positivas\2(5)t.jpg 1 74 75 222 222
+positivas\2(50).jpg 0
+positivas\2(51).jpg 0
+positivas\2(52).jpg 1 88 100 183 217
+positivas\2(53).jpg 1 138 317 167 50
+positivas\2(54).jpg 0
+positivas\2(55).jpg 0
+positivas\2(56).jpg 1 34 116 263 174
+positivas\2(57).jpg 0
+positivas\2(58).jpg 1 73 104 240 153
+positivas\2(59).jpg 1 56 181 199 130
+positivas\2(6)t.jpg 1 16 244 295 165
+positivas\2(60).jpg 1 11 116 295 206
+positivas\2(61).jpg 1 87 142 221 106
+positivas\2(62).jpg 1 81 130 222 124
+positivas\2(63).jpg 1 89 96 159 153
+positivas\2(64).jpg 1 45 90 202 290
+positivas\2(65).jpg 1 51 95 186 260
+positivas\2(66).jpg 2 189 123 113 104 60 120 73 74
+positivas\2(67).jpg 1 153 112 152 315
+positivas\2(68).jpg 1 87 115 169 53
+positivas\2(69).jpg 1 122 153 107 52
+positivas\2(7)t.jpg 1 9 69 306 228
+positivas\2(70).jpg 1 58 209 123 133
+positivas\2(71).jpg 2 7 48 296 167 11 222 294 158
+positivas\2(72).jpg 0
+positivas\2(73).jpg 1 109 134 199 61
+positivas\2(74).jpg 1 27 133 141 243
+positivas\2(75).jpg 1 167 31 91 399
+positivas\2(76).jpg 1 243 3 67 436
+positivas\2(77).jpg 1 235 5 70 442
+positivas\2(78).jpg 0
+positivas\2(79).jpg 0
+positivas\2(8)t.jpg 1 5 77 295 226
+positivas\2(80).jpg 0
+positivas\2(81).jpg 1 239 14 64 222
+positivas\2(82).jpg 1 104 134 148 210
+positivas\2(83).jpg 1 27 191 285 151
+positivas\2(84).jpg 1 36 148 267 186
+positivas\2(85).jpg 0
+positivas\2(86).jpg 0
+positivas\2(87).jpg 0
+positivas\2(88).jpg 2 162 72 110 249 32 128 109 270
+positivas\2(89).jpg 1 181 210 109 99
+positivas\2(9)t.jpg 1 89 185 221 236
+positivas\2(90).jpg 1 181 205 100 89
+positivas\2(91).jpg 1 4 74 129 235
+positivas\2(92).jpg 1 13 160 282 158
+positivas\2(93).jpg 1 40 130 225 54
+positivas\2(94).jpg 1 9 132 262 296
+positivas\2(95).jpg 1 5 171 171 277
+positivas\2(96).jpg 1 46 146 160 83
+positivas\2(97).jpg 1 60 118 185 74
+positivas\2(98).jpg 1 128 147 141 114
+positivas\2(99).jpg 1 111 290 33 136
